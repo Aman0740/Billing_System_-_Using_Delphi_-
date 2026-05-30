@@ -1,0 +1,109 @@
+object FormCity: TFormCity
+  Left = 0
+  Top = 0
+  Caption = 'City'
+  ClientHeight = 411
+  ClientWidth = 505
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  OldCreateOrder = False
+  Visible = True
+  WindowState = wsMaximized
+  OnClose = FormClose
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 505
+    Height = 241
+    Align = alTop
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 79
+      Top = 72
+      Width = 31
+      Height = 18
+      Caption = 'City :'
+      Font.Charset = ANSI_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -15
+      Font.Name = 'Calibri'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object Label2: TLabel
+      Left = 72
+      Top = 104
+      Width = 39
+      Height = 18
+      Caption = 'State :'
+      Font.Charset = ANSI_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -15
+      Font.Name = 'Calibri'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object DBEditCity: TwwDBEdit
+      Left = 120
+      Top = 69
+      Width = 121
+      Height = 21
+      DataField = 'CityName'
+      DataSource = DataCity.DataSrcCityMaster
+      TabOrder = 0
+      UnboundDataType = wwDefault
+      WantReturns = False
+      WordWrap = False
+    end
+    object DBEditState: TwwDBEdit
+      Left = 120
+      Top = 101
+      Width = 121
+      Height = 21
+      DataField = 'StateName'
+      DataSource = DataCity.DataSrcCityMaster
+      TabOrder = 1
+      UnboundDataType = wwDefault
+      WantReturns = False
+      WordWrap = False
+    end
+    object DBNavigator1: TDBNavigator
+      Left = 72
+      Top = 144
+      Width = 240
+      Height = 25
+      DataSource = DataCity.DataSrcCityMaster
+      TabOrder = 2
+    end
+  end
+  object wwDBGrid1: TwwDBGrid
+    Left = 0
+    Top = 241
+    Width = 505
+    Height = 170
+    IniAttributes.Delimiter = ';;'
+    IniAttributes.UnicodeIniFile = False
+    TitleColor = clBtnFace
+    FixedCols = 0
+    ShowHorzScrollBar = True
+    Align = alClient
+    DataSource = DataCity.DataSrcCityMaster
+    TabOrder = 1
+    TitleAlignment = taLeftJustify
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+    TitleLines = 1
+    TitleButtons = False
+  end
+end

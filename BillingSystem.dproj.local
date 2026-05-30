@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/05/23 16:18:07.000.812,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 16:25:52.000.590,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\BillingSystemForm.pas</Transaction>
+    <Transaction>2026/05/23 16:25:52.000.590,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\BillingSystemForm.dfm</Transaction>
+    <Transaction>2026/05/23 16:26:04.000.685,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 16:35:56.000.552,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\AccountForm.pas</Transaction>
+    <Transaction>2026/05/23 16:35:56.000.552,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\AccountForm.dfm</Transaction>
+    <Transaction>2026/05/23 16:38:01.000.764,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 16:41:01.000.494,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\AcMasterData.pas</Transaction>
+    <Transaction>2026/05/23 16:41:01.000.494,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\AcMasterData.dfm</Transaction>
+    <Transaction>2026/05/23 16:41:19.000.559,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 17:03:56.000.300,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\ItemForm.dfm</Transaction>
+    <Transaction>2026/05/23 17:03:56.000.300,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\ItemForm.pas</Transaction>
+    <Transaction>2026/05/23 17:04:05.000.217,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 17:05:53.000.875,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\ItemMasterData.dfm</Transaction>
+    <Transaction>2026/05/23 17:05:53.000.875,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\ItemMasterData.pas</Transaction>
+    <Transaction>2026/05/23 17:08:29.000.100,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 17:24:29.000.845,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\SaleForm.pas</Transaction>
+    <Transaction>2026/05/23 17:24:29.000.845,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\SaleForm.dfm</Transaction>
+    <Transaction>2026/05/23 17:24:49.000.592,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 17:29:10.000.501,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\TransactionSalesData.pas</Transaction>
+    <Transaction>2026/05/23 17:29:10.000.501,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\TransactionSalesData.dfm</Transaction>
+    <Transaction>2026/05/23 17:44:17.000.245,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 17:45:02.000.453,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\CityForm.pas</Transaction>
+    <Transaction>2026/05/23 17:45:02.000.453,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\CityForm.dfm</Transaction>
+    <Transaction>2026/05/23 17:52:58.000.865,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 17:55:32.000.495,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\CityData.dfm</Transaction>
+    <Transaction>2026/05/23 17:55:32.000.495,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\CityData.pas</Transaction>
+    <Transaction>2026/05/23 17:55:43.000.501,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/23 17:58:16.000.084,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\ItemGroupMasterForm.dfm</Transaction>
+    <Transaction>2026/05/23 17:58:16.000.084,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\ItemGroupMasterForm.pas</Transaction>
+    <Transaction>2026/05/23 17:58:39.000.947,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\Embarcadero\Delphi Project\23-05-26\Project2.dproj</Transaction>
+    <Transaction>2026/05/27 13:02:46.000.192,=E:\Embarcadero\Delphi Project\23-05-26\Unit1.pas</Transaction>
+    <Transaction>2026/05/27 13:26:16.000.582,E:\Embarcadero\Delphi Project\23-05-26\Unit1.pas=E:\Embarcadero\Delphi Project\23-05-26\OpenSaleDLGForm.pas</Transaction>
+    <Transaction>2026/05/27 13:26:16.000.583,E:\Embarcadero\Delphi Project\23-05-26\Unit1.dfm=E:\Embarcadero\Delphi Project\23-05-26\OpenSaleDLGForm.dfm</Transaction>
+    <Transaction>2026/05/30 10:56:58.000.339,E:\Embarcadero\Delphi Project\23-05-26\Project2.dproj=E:\Embarcadero\Delphi Project\23-05-26\BillingSystem.dproj</Transaction>
+    <Transaction>2026/05/30 11:01:05.393,=E:\Embarcadero\Delphi Project\23-05-26\Unit1.pas</Transaction>
+    <Transaction>2026/05/30 11:04:08.830,E:\Embarcadero\Delphi Project\23-05-26\OpenAcMstrDLGForm.pas=E:\Embarcadero\Delphi Project\23-05-26\Unit1.pas</Transaction>
+    <Transaction>2026/05/30 11:04:08.830,E:\Embarcadero\Delphi Project\23-05-26\OpenAcMstrDLGForm.dfm=E:\Embarcadero\Delphi Project\23-05-26\Unit1.dfm</Transaction>
+    <Transaction>2026/05/30 11:24:42.197,=E:\Embarcadero\Delphi Project\23-05-26\Unit1.pas</Transaction>
+    <Transaction>2026/05/30 11:27:53.121,E:\Embarcadero\Delphi Project\23-05-26\ItemMstrDLGForm.dfm=E:\Embarcadero\Delphi Project\23-05-26\Unit1.dfm</Transaction>
+    <Transaction>2026/05/30 11:27:53.121,E:\Embarcadero\Delphi Project\23-05-26\ItemMstrDLGForm.pas=E:\Embarcadero\Delphi Project\23-05-26\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
